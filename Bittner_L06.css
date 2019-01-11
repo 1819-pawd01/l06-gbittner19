@@ -13,5 +13,15 @@
 /* Body attributes here */
 
 body { 
-   
 } 
+thead{
+    background-color: aliceblue
+}
+tfoot{
+    background-color: bisque
+}
+tbody{
+    color: blue
+}
+table, th, td{border: 1px solid black; 
+}
